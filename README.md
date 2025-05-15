@@ -10,3 +10,4 @@ This is a simple calculator project written in Python. It performs basic arithme
 
 ## How to Run
 1. Clone the repository:
+git clone https://github.com/nandhuj20/Micro_IT_Calculator_project.git
